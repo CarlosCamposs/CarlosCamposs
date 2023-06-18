@@ -19,6 +19,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CarlosCamposs/CarlosCamposs/output/snake.svg" alt="Snake animation" />
-
-###
