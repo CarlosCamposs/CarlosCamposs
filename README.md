@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 Me gusta aprender cosas nuevas y si representan un reto, mejor.<br>🎯 Goals: <br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 Me gusta aprender cosas nuevas <br>🎯 Goals: <br>🎲 Fun fact: ...</p>
 
 ###
 
