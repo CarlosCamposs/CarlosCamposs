@@ -11,7 +11,9 @@
 
 1. [Cálculo del VaR y tVaR usando cópulas](https://github.com/CarlosCamposs/Value-at-Risk)
 
-<p align="left">(Borrador)<br> <br>2. Ajuste de curvas de probabilidad<br><br>3. Modelo de riesgo colectivo en R<br><br>4. Modelos de riesgos en Excel<br><br>5. ISLR</p>
+2. [Lab from ISLR](https://github.com/CarlosCamposs/Lab-from-ISLR)
+
+<p align="left">(Borrador)<br> <br>2. Ajuste de curvas de probabilidad<br><br>3. Modelo de riesgo colectivo en R<br><br>4. Modelos de riesgos en Excel<br></p>
 
 ###
 
