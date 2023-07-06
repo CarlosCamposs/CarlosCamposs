@@ -9,7 +9,7 @@
 
 <p align="left">Mi nombre es Carlos, soy actuario egresado de la Benemérita Universidad Autónoma de Puebla (México). Me apasionan las matemáticas actuariales y las aplicaciones de conceptos estadísticos a modelos de riesgos. Actualmente me encuentro siguiendo el proceso de certificación con la Society of Actuaries (SOA).<br><br>En este repositorio se encuentran algunos trabajos realizados mientras estudiaba la carrera que me permitieron mejorar mis habilidades para programar en distintos softwares y presentar resultados con los conocimientos que fui adquiriendo. La mayoría de estos proyectos los realicé con colaboración de compañeros:</p>
 
-1. [Cálculo del VaR y tVaR usando cópulas](https://github.com/CarlosCamposs/Value-at-Risk)
+1. [Cálculo del VaR y TVaR usando cópulas](https://github.com/CarlosCamposs/Value-at-Risk)
 
 2. [Lab from ISLR](https://github.com/CarlosCamposs/Lab-from-ISLR)
 
