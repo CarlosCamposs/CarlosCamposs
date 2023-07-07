@@ -13,7 +13,9 @@
 
 2. [Lab from ISLR](https://github.com/CarlosCamposs/Lab-from-ISLR)
 
-<p align="left">(Borrador)<br> <br>2. Ajuste de curvas de probabilidad<br><br>3. Modelo de riesgo colectivo en R<br><br>4. Modelos de riesgos en Excel<br></p>
+3. Reservas modificadas
+   
+<p align="left">(Borrador)<br> <br>4. Ajuste de curvas de probabilidad<br><br>5. Modelos de riesgos en Excel<br></p>
 
 ###
 
