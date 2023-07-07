@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 Me gusta aprender cosas nuevas <br>🎯 Goals: <br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 Me gusta aprender <br>🎯 Goals: <br>🎲 Fun fact: ...</p>
 
 ###
 <h2 align="left">Lenguajes de programación y herramientas</h2>
