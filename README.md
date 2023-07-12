@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 Me  <br>🎯 Goals: <br>🎲 Fun fact: ...</p>
+<p align="left">✨ Me gustan las películas que tienen un trasfondo matemático <br>📚 Hace poco retomé mi hobby por leer sobre filósofos  <br> 🎲  </p>
 
 ###
 <h2 align="left">Lenguajes de programación y herramientas</h2>
