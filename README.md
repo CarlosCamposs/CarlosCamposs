@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨ Me gustan las películas que tienen un trasfondo matemático <br>📚 Hace poco retomé mi hobby por leer sobre filósofos  <br> 🎯 Actualmente estoy aprendiendo Power BI  </p>
+<p align="left">✨ Me gusta <br>📚   <br> 🎯 Actualmente estoy aprendiendo SAS  </p>
 
 ###
 <h2 align="left">Lenguajes de programación y herramientas</h2>
